@@ -1,0 +1,28 @@
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.notification{
+      height: 20px;
+      width: 20px;
+      line-height: 20px;
+      margin-top: 20px;
+      margin-left: -5px;
+}
+.input-field label {
+    width: 100%;
+}
+
+body {
+
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+
+}
+
+main {
+  flex: 1 0 auto;
+}
